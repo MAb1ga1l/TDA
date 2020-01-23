@@ -1,6 +1,6 @@
 //
 //  fibonacci.h
-//  
+//
 //
 //  Created by Virtualizacion05 on 16/01/20.
 //
@@ -10,4 +10,5 @@
 
 #include <stdio.h>
 #include <time.h>
+#include <stdlib.h>
 #endif /* fibonacci_h */
